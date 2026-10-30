@@ -1,0 +1,15 @@
+type: report
+title: Exempelkälla för source_example-paketet
+author:
+  - writing_sv-modulen
+abstract: >-
+  En liten syntetisk källa som följer med modulen, under
+  source_example-exempelpaketets sources/-katalog. Den demonstrerar
+  källstrukturen — chunkar med deklarerade lokatorer och en översikt som
+  refererar chunkarna via implicita sökvägslokatorer — och är målet för
+  de live-citat som exempelpaketets egna innehållsdomäner bär.
+note: >-
+  Syntetiskt undervisningsmaterial: skrivet för denna modul, täcker ingen
+  extern källmaterial, och deklarerar därför ingen coverage. Dess
+  citeringsnyckel är det härledda kvalificerade namnet
+  writing_sv_core_source_example_example.

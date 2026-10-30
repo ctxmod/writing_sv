@@ -1,0 +1,11 @@
+title: Svenskt skrivande — kärna
+description: >-
+  Modulens gemensamma bas: neutral standardsvenska enligt Språkrådets
+  skrivregler — skiljetecken, versaler och sammansättningar, förkortningar
+  och tal, samt referat, citat och källhänvisning. Övriga profiler bygger
+  på denna kärna.
+packages:
+  defaults:
+    - regler
+    - former
+    - kallor

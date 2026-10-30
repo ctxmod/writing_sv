@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing_sv/context/profiles/core
+title: Svenskt skrivande — webb
+description: >-
+  Webbtexters skrivprinciper (sammansättningar, typografi, facktermer)
+  och genrer (e-post, cv-poster, konsulttext, översättning).
+packages:
+  add:
+    - principer
+    - genrer

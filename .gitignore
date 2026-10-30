@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+!/context/
+!/context.internal/
+
+# Waste files (nested anywhere, including inside context/)
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp

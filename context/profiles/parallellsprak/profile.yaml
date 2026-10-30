@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing_sv/context/profiles/core
+title: Svenskt skrivande — parallellspråk
+description: >-
+  Parallellspråk och fackspråk: språkval när flera språk delar samma
+  domän, terminologivård, samt policy- och rekommendationsläget (språklagen
+  och lärosätenas språkpolicyer).
+packages:
+  add:
+    - sprakbruk

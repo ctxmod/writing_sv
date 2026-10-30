@@ -1,0 +1,9 @@
+extends:
+  - github.com/ctxmod/writing_sv/context/profiles/core
+title: Svenskt skrivande — redaktionellt
+description: >-
+  Redaktionell policy och publicering samt texttyperna Essä, Analys,
+  Kritik och Förslag med sina positioner.
+packages:
+  add:
+    - texttyper

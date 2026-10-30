@@ -1,0 +1,9 @@
+description: >-
+  Modulens genomarbetade exempel på en väldifferentierad paketstruktur:
+  package.yaml, innehållsdomäner (rules/, reference/) med modulens enda
+  live-citat, samt en katalogformig källa (sources/example/) som citaten
+  skulle resolve:a mot — chunkar med deklarerade lokatorer och en översikt
+  som refererar chunkarna via implicit sökvägslokatorer. Exempel
+  processeras aldrig: allt här demonstrerar struktur utan att delta i
+  upplösning.
+binds_to_depth: main...
