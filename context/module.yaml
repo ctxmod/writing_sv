@@ -1,0 +1,13 @@
+title: Swedish Writing
+description: >-
+  Swedish writing sources: Språkrådet's rule literature (Snabba skrivregler;
+  Parallella fackspråk on terminology and parallel language), Swedish writing
+  doctrine and personal style preferences, editorial policy for a Swedish
+  publication, and Swedish personal professional writing rules. Sources are
+  pointers into external material; the module carries overviews and summaries,
+  not copies.
+path: github.com/ctxmod/writing_sv/context
+requires:
+  - github.com/ctxmod/writing/context
+default_profiles:
+  - core

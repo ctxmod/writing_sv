@@ -1,0 +1,9 @@
+extends:
+  - github.com/ctxmod/writing_sv/context/profiles/core
+title: Svenskt skrivande — jobbansökningar
+description: >-
+  Personligt brev, påståenden med stöd, och kvalitetsporten för
+  ansökningstext.
+packages:
+  add:
+    - ansokan
