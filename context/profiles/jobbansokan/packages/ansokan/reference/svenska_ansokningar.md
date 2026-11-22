@@ -6,13 +6,67 @@ Filen lägger till det som gäller svenska personliga brev och arbetslivsbeskriv
 
 Ett personligt brev, en intressetext, ett "varför söker du"-fält eller ett meddelande till en arbetsgivare bärs av verkliga skäl att vilja vara där — organisationen eller produkten, ett område sökanden vill växa i, ett arbete sökanden särskilt tycker om och som utgör en stor del av rollen, valet av den sortens organisation — aldrig av en cv-återberättelse av varför sökanden är kvalificerad ("rollen beskriver det jag redan gör"). Motivationen är sann: den är förankrad i sökandens faktiska karriärriktning och i kontrollerbara fakta om arbetsgivaren, och ett skäl utan källa föreslås för bekräftelse. Det första stycket är motivationen; huvudexemplet följer och stöder den.
 
+Att bevisa lämplighet genom att återberätta CV:t är aldrig textens centrum eller inledning. Inledningar av följande slag är förbjudna (illustrativt):
+
+> Rollen beskriver det jag redan gör.
+
+> Jag har relevant erfarenhet av …, vilket gör mig till en bra match för tjänsten.
+
+Bättre (illustrativt):
+
+> Jag söker mig till ett produktbolag, och ert verktyg för schemaläggning är en produkt jag gärna vill vara med och utveckla. Annonsen nämner integrationsarbete, och det är den sortens arbete jag tycker mest om.
+
+En kort, övergripande hänvisning till bakgrunden är tillåten i stödjande roll, men aldrig som skälet till att söka. Testet är att stryka varje mening vars uppgift är att visa att sökanden kvalificerar sig. Det som återstår ska fortfarande säga varför sökanden vill ha just den här rollen här. Engagemang visas genom konkreta skäl och aldrig genom entusiasmord som "brinner för", "passionerad" eller "drömjobb".
+
+### Ett område är inget skäl
+
+Att nämna ett område är inget skäl. "Plattformar och informationsflöden är det jag vill fördjupa mig i" pekar ut en domän men säger inte varför. Texten ska säga vad i området som är intressant eller stimulerande för sökanden personligen, kopplat till erfarenheter och personlig strävan. Testet är om läsaren efter meningen kan svara på "varför spelar det roll för sökanden?" utifrån texten. Kan läsaren inte det behöver meningen det personliga skälet, som hämtas ur sakunderlaget om sökanden och följer samma ärlighetskrav som all motivation.
+
+Svagt (illustrativt):
+
+> Plattformar och informationsflöden är delar av utvecklingsarbetet som jag gärna vill fördjupa mig i.
+
+Starkare (illustrativt, och skälet måste finnas i sakunderlaget):
+
+> Jag tycker om att förstå hur ett helt system hänger ihop, från data in till det som användarna ser. En plattform som flera team bygger på är ett ställe där den förståelsen gör skillnad.
+
+### Ödmjukhet mot rollen
+
+Annonsen ger en riktning, och arbetsuppgifterna i den är exempel. Arbetet förändras över tid, och sökanden kan inte veta av annonstexten vad rollen faktiskt kommer att innehålla eller hur organisationen runt den ser ut. Därför återger texten inte annonsens uppgifter och upplägg som fakta om rollen, och den påstår ingenting om organisationen eller rollen som sökanden inte kan veta eller kontrollera. Konstaterande meningar av typen "X är Y" om arbetsgivaren eller arbetet undviks. Texten skrivs utifrån sökandens egna önskemål, nyfikenhet och erfarenheter och får vara trevande där den rör arbetsgivaren ("jag föreställer mig", "jag skulle gärna vilja förstå").
+
+Förbjudna mönster (illustrativt):
+
+> I den här rollen står plattformen mellan Data Scientists, en lösningsarkitekt och IT.
+
+> Rollen är till stor del det arbetet.
+
+Bättre (illustrativt):
+
+> Jag skulle gärna vilja förstå hur en AI-tjänst går från idé till drift hos en organisation där så många är beroende av datan.
+
+Kontrollerbara offentliga fakta om organisationen får användas sparsamt och bara där de bär motivationen. Ett faktum som bara visar att sökanden har läst annonsen eller webbplatsen stryks.
+
+### Precision och proportion i hänvisningar till bakgrunden
+
+En hänvisning till bakgrunden ska säga något som läsaren begriper och som betyder något i sammanhanget, annars stryks den. Vaga omfångsfraser blandade med detaljer som inte spelar roll är förbjudna, till exempel verktygsuppräkningar och fraser som "från Terraform till övervakning". En konkret mening räcker, och i en kort motivationstext nämns bakgrunden högst en gång.
+
+Svagt (illustrativt):
+
+> Vid sidan av anställningen har jag byggt och driftar en egen AI-tjänst i molnet från Terraform till övervakning.
+
+Starkare (illustrativt, och faktat måste finnas i sakunderlaget):
+
+> Mycket av arbetet med en tjänst börjar först när den är lanserad. Det har jag sett i de AI-assistenter som jag ofta bygger och driftar.
+
+Hänvisningar till bakgrunden hålls proportionerliga. Ett enskilt sidoprojekt eller en demo lyfts aldrig upp till en fristående prestation som bär stycket, och inramningar som "på egen hand" eller "vid sidan av anställningen" är förbjudna där de blåser upp omfånget. Det som sökanden gör ofta beskrivs som vardag, kort och allmänt. Ett visningsprojekt hör hemma i CV:t, där dess teknikstack är relevant, och inte i motivationstexten.
+
 ## Rubrik och ram
 
 Rubriken på ett personligt brev är rollkopplad — "Ansökan – <roll>" — och en generisk hälsningsfras som rubrik klarar inte rollkopplingen. Brevet ramas in av "Hej [förnamn]" och "Vänliga hälsningar" enligt svensk språkmekanik.
 
 ## Stoltheten som ankare
 
-Ett kort ansökningsmejl får inleda med det bygge sökanden är mest stolt över ("Det system jag är mest stolt över är …", illustrativt), enligt `cover_letter` (modulen `writing`, profilen `job_application`, paketet `letters`). Meningen står kvar och ersätts inte av en neutral platshållare som "ett relevant exempel".
+Ett kort ansökningsmejl får inleda med det bygge sökanden är mest stolt över ("Det system jag är mest stolt över är …", illustrativt), enligt `cover_letter` (modulen `writing`, profilen `job_application`, paketet `letters`). Meningen står kvar och ersätts inte av en neutral platshållare som "ett relevant exempel". Ankaret är en insats och ingen kvalifikationsuppräkning, så det följs av varför den sortens arbete drar sökanden till rollen och aldrig av en lista över hur det matchar annonsen.
 
 ## Tempus och rubriker i CV:t
 

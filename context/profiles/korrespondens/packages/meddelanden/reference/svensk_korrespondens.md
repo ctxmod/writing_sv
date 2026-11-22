@@ -20,7 +20,7 @@ Alltför trevande (undvik, illustrativt):
 
 Bättre (illustrativt):
 
-> Jag hör av mig om uppdraget som backendutvecklare, eftersom det matchar det jag byggt de senaste åren.
+> Jag hör av mig om uppdraget som backendutvecklare, eftersom er schemaläggningsprodukt är en jag gärna vill vara med och bygga.
 
 Ämnesraden säger vad avsändaren vill, till exempel "Intresse för en utvecklarroll hos er", och aldrig bara vilket område meddelandet rör. Gäller meddelandet en viss roll eller ett visst uppdrag framgår vilket; säger brödtexten bara "rollen" bär ämnesraden namnet. Regeln står i `messages` (modulen `writing`, profilen `correspondence`, paketet `replies`).
 
@@ -135,5 +135,7 @@ Upprepar, inleder och sammanfattar (undvik, illustrativt):
 
 Börjar med svaret och slutar där (bättre, illustrativt):
 
-> Reglerad data och tillämpad AI tillsammans, där jag arbetat i flera år och där de svåra problemen finns.
+> Tillämpad AI på reglerad data är det område jag helst vill växa inom, och er produkt för kliniskt beslutsstöd är där det arbetet görs på riktigt.
+
+Ett fält som frågar varför sökanden är intresserad, varför hen söker eller vad som lockar med organisationen är en motivationsfråga och besvaras med motivation. Det kan vara organisationen, produkten eller uppdraget, uppskattat för något konkret, ett område sökanden vill växa i, en sorts arbete sökanden särskilt tycker om och som annonsen pekar mot, eller valet av just den sortens organisation. Att återberätta CV:t ("rollen matchar det jag redan gör", "jag har relevant erfarenhet av …") svarar på en annan fråga. Det är förbjudet som svarets centrum eller inledning och får bara förekomma som en kort stödjande bisats. Motivationen är sann och förankrad, och ett områdesnamn är inget skäl, enligt `svenska_ansokningar` (modulen `writing_sv`, profilen `jobbansokan`, paketet `ansokan`). Svaret påstår ingenting om organisationen eller rollen som sökanden inte kan veta eller kontrollera, och verktygslistor och omfångsfraser stryks.
 

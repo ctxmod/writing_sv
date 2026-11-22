@@ -114,6 +114,7 @@ Kapitel 8 i publikationen.
 - Datum i löptext skrivs ut ("15 april 2025") och `2025-04-15` står där datumet står för sig (§5.3); ISO-formen hör till frontmatter och maskinfält, enligt [datum_och_klockslag.md](../../former/reference/datum_och_klockslag.md).
 - Rubriker får enligt Isof frågetecken (§7.3), men skrivmodulens antimönsterkatalog (post 9, frågerubriker) är strängare för text som inte är byggd kring läsarens egna frågor.
 - Svenska termer före engelska gäller, med undantaget för dokument som medvetet följer en extern text och anger det i sitt huvud (`facktermer` i profilen `webb`).
+- Kolon före en förklaring, ett exempel eller en närliggande huvudsats (§1.8) krockar med skrivmodulens regel mot satsbindande kolon i löptext, och den regeln går före. Kolon står kvar före uppställda listor, efter etiketter och före citat, enligt [skiljetecken.md](../rules/skiljetecken.md).
 - Tankstreck med mellanslag före paus, tillägg och inskott (§1.1, §1.10) är tillåtet; när tankstrecket är rätt val avgörs av strecktestet i [skiljetecken.md](../rules/skiljetecken.md).
 
 En husstil som avviker från Isof, eller en personlig stilpreferens, hör hemma i konsumentens eget lager, inte i den här modulen.

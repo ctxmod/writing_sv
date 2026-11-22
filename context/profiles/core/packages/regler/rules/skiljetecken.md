@@ -17,12 +17,43 @@ andra satsen förklarar, utvecklar eller upprepar den första.
 ## Motivering
 
 Semikolonet är sällsynt: det passar när en punkt är för stark och ett
-komma för svagt. Kolonet inleder uppräkning, exempel och förklaring.
+komma för svagt. Kolonet inleder en uppställd uppräkning, en etikett
+eller ett citat, men binder inte ihop satser i löptext.
 Bindestrecket sammanfogar led; tankstrecket markerar intervall och
 paus i löptexten. Parentesen rymmer utelämnbara inskott, och
 snedstrecket ställer alternativ mot varandra. Efter skiljetecken
 följer vanligt mellanslag, medan måttenheter och siffergrupper hålls
 samman av fast mellanslag.
+
+## Kolon i löptext
+
+Kolon binder aldrig ihop satser och inleder aldrig en förklaring, ett
+exempel eller en utveckling mitt i löptext. Isof tillåter ett sådant
+kolon (§1.8), men skrivmodulens regel i `tone_and_register` (modulen
+`writing`, profilen `core`, paketet `basics`) gäller all prosa och går
+före. Ett satsbindande kolon läses som en mallmarkör.
+
+Testet är om kolonet står mellan två delar av en löpande mening. Gör
+det det skrivs meningen om, antingen med punkt och en ny mening eller
+med ett bindeord som säger vad sambandet är ("eftersom", "så att",
+"för att").
+
+Fel (illustrativt):
+
+> Arbetssättet är enkelt: en tjänst, en databas.
+
+> Jag vill ha ett ansvar som sträcker sig över tid: en plattform som ska förvaltas i flera år.
+
+Rätt (illustrativt):
+
+> Arbetssättet bygger på en tjänst och en databas.
+
+> Jag vill ha ett ansvar som sträcker sig över en längre tid. En plattform ska förvaltas i flera år och inte driftsättas en gång och lämnas.
+
+Kolon står kvar där det inte binder löptext. Det gäller rubriker och
+etiketter ("Format:", "Fel:" ovan), inledningen till en uppställd
+lista, klockslag och kvoter, böjningskolon (EU:s) och kolon före ett
+citat.
 
 ## Tankstrecket och strecktestet
 
