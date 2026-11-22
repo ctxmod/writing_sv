@@ -1,0 +1,12 @@
+extends:
+  - github.com/ctxmod/writing_sv/context/profiles/core
+title: Svenskt skrivande — affärsdokument
+description: >-
+  Svenska affärsdokument (offerter, projektbeskrivningar, avtal):
+  ni-tilltal till organisationer och en avsändarform genom hela
+  dokumentet, bilagornas namn och skrivning, moms angiven vid varje
+  belopp, och definierade termer med stor begynnelsebokstav. Bygger på
+  skrivmodulens profil commercial_documents, som bär genreprinciperna.
+packages:
+  add:
+    - dokument
