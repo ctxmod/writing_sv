@@ -23,3 +23,38 @@ paus i löptexten. Parentesen rymmer utelämnbara inskott, och
 snedstrecket ställer alternativ mot varandra. Efter skiljetecken
 följer vanligt mellanslag, medan måttenheter och siffergrupper hålls
 samman av fast mellanslag.
+
+## Tankstrecket och strecktestet
+
+Det svenska tankstrecket är – (U+2013). Vid paus, tillägg och inskott,
+och mellan en huvudrubrik och en underrubrik, står det med mellanslag
+på båda sidor; i intervall står det utan mellanslag (Isof, _Snabba
+skrivregler_ §1.10; Språkrådet, _Myndigheternas skrivregler_ 3.5.3).
+Det engelska em-strecket (—, U+2014) hör till engelsk typografi och är
+fel tecken i svensk text.
+
+Ett tankstreck är tillåtet överallt där det klarar strecktestet:
+skapar strecket ett meningsfullt avbrott, en vändning eller en
+fördröjd precisering som alternativen skulle försvaga? Jämför med
+komma, kolon, parentes och punkt, och behåll strecket bara om vart och
+ett av dem försvagar vändningen. Det finns ingen kvot, men frekvens är
+en varningssignal vid redigering: flera tankstreck i samma stycke,
+eller ett i nästan varje stycke, betyder oftast att strecken står i
+stället för meningsbyggnad.
+
+Klarar testet, eftersom strecket bär en vändning som komma eller kolon
+skulle försvaga:
+
+> Retuscherad – men av vems hand?
+
+Klarar inte testet, eftersom strecken ersätter meningsbyggnaden:
+
+> Jag arbetar nära produkten – designers, produktägare, användare – och ser underhållbarhet – i varje led – som en del av leveransen.
+
+Omskrivet:
+
+> Jag arbetar nära produkten, det vill säga designers, produktägare och användare, och ser underhållbarhet som en självklar del av leveransen.
+
+En översatt titel får behålla sitt tankstreck om vändningen fungerar
+även på målspråket. Skiljetecknet avgörs då på nytt utifrån den
+omskrivna meningens innebörd och förs aldrig över mekaniskt.
