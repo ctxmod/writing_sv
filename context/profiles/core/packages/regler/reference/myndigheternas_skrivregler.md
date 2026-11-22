@@ -1,6 +1,6 @@
 # Myndigheternas skrivregler: digest av avsnitt 1.5 och 3.5
 
-Ett urval ur Språkrådets _Myndigheternas skrivregler_: de två avsnitt som handlar om att göra en längre text överskådlig, med sammanfattning, rubriker och röd tråd. Boken skrevs för myndigheter, kommuner och annan offentlig verksamhet, men råden om sammanfattningar och rubriker gäller all längre sakprosa. Basprofilens modell och [snabba_skrivregler_digest.md](snabba_skrivregler_digest.md) gäller vid sidan av digesten. Där ett råd krockar med en husregel står det i [konflikttabellen](#konflikter-med-husregler) sist i filen.
+Ett urval ur Språkrådets _Myndigheternas skrivregler_: de två avsnitt som handlar om att göra en längre text överskådlig, med sammanfattning, rubriker och röd tråd. Boken skrevs för myndigheter, kommuner och annan offentlig verksamhet, men råden om sammanfattningar och rubriker gäller all längre sakprosa. Basprofilens modell och [snabba_skrivregler_digest.md](snabba_skrivregler_digest.md) gäller vid sidan av digesten. Hur råden förhåller sig till skrivmodulens katalog står i avsnittet [Förhållande till skrivmodulens katalog](#förhållande-till-skrivmodulens-katalog) sist i filen.
 
 ## Källa
 
@@ -17,7 +17,7 @@ Hänvisningarna nedan, till exempel (1.5.3), avser bokens avsnittsnummer; sidnum
 
 Avsnittet utgår från att en text ofta har flera läsargrupper och att inte alla behöver läsa allt. Läsaren ska därför snabbt kunna få överblick och hitta det hon behöver. Informativa rubriker hjälper, och i längre texter även en innehållsförteckning. Huvudbudskapet kan lyftas fram redan i rubriken eller placeras i början av texten (1.5).
 
-I texter som är längre än några sidor behöver läsaren, enligt boken, anvisningar om hur texten är uppbyggd och vad den innehåller i stort. Boken föreslår uttryck som "i nästa avsnitt", "i bilaga 1" och "avslutningsvis", och varnar för vaga hänvisningar som "nedan", "som presenterats ovan" och "i det följande" (1.5). Hur rådet förhåller sig till katalogens poster om metapåståenden står i konflikttabellen.
+I texter som är längre än några sidor behöver läsaren, enligt boken, anvisningar om hur texten är uppbyggd och vad den innehåller i stort. Boken föreslår uttryck som "i nästa avsnitt", "i bilaga 1" och "avslutningsvis", och varnar för vaga hänvisningar som "nedan", "som presenterats ovan" och "i det följande" (1.5). Hur rådet förhåller sig till katalogens poster om metapåståenden står sist i filen.
 
 Den grafiska formen påverkar hur lätt texten är att ta till sig: tillräckliga marginaler, luft på sidan, radavstånd, radlängd, typsnitt och teckenstorlek, och stycken av lagom längd. Bilder, punktuppställningar och figurer skapar också luft (1.5.1).
 
@@ -31,7 +31,7 @@ Rådet stöder skrivmodulens helhet-till-detalj-modell (`whole_to_detail` i modu
 
 ### Punktuppställningar och röd tråd
 
-Punktuppställningar och faktarutor delar upp texten grafiskt och framhäver viktig information. Boken föreslår en punktuppställning när viss information ska framhävas, eller när en mening blir lång för att den innehåller flera villkor eller uppräkningar (1.5.4). När innehållet alls hör hemma i en lista avgörs i huset av katalogens post 1 i `catalogue` (modulen `writing`, profilen `core`, paketet `anti_patterns`).
+Punktuppställningar och faktarutor delar upp texten grafiskt och framhäver viktig information. Boken föreslår en punktuppställning när viss information ska framhävas, eller när en mening blir lång för att den innehåller flera villkor eller uppräkningar (1.5.4). När innehållet alls hör hemma i en lista avgörs av skrivmodulens antimönsterkatalog, post 1, i `catalogue` (modulen `writing`, profilen `core`, paketet `anti_patterns`).
 
 Den röda tråden byggs genom att huvudtanken anges och ämnet avgränsas tidigt, "gärna allra först", och genom en logisk disposition med ett genomgående tema. Sambandsord visar hur meningar och stycken hänger ihop, och boken grupperar dem efter funktion: tillägg (också, dessutom), tid (sedan, därefter), motsats (men, däremot, trots att), villkor (om, ifall), följd (så att, alltså, följaktligen) och avsikt (för att, i syfte att). Det som hör ihop samlas i samma stycke, som gärna inleds med en sammanfattande mening som lyfter fram det viktiga med ett nyckelord. Nyckelordet kan sedan upprepas exakt eller i ändrad form. Samband skapas också med ord som hör ihop (tabeller och diagram blir figurer), med pronomen och med adverb som syftar tillbaka (1.5.5).
 
@@ -45,11 +45,11 @@ Rubriker har två funktioner: de upplyser om innehållet och visar hur texten ä
 
 En text på två sidor eller mer behöver i regel både huvudrubrik och mellanrubriker, och ibland underrubriker. Numrerade rubriker hålls till högst tre nivåer; ett par onumrerade nivåer kan läggas till, men de tas i regel inte med i innehållsförteckningen (3.5.1).
 
-En rubrik ska skilja sig tydligt från löptexten. En lång rubrik delas hellre på två rader än sträcks över hela sidans bredd. Rubriker skrivs med gemener och avstavas inte. En rubrik avslutas aldrig med punkt eller kolon, utom att en punktuppställning kan ha kolon i sin rubrik. Efter en frågerubrik sätter boken frågetecken, och utropstecken i förekommande fall. Rubriker är inte understrukna. Boken ger teckengrader per nivå, från 20–24 punkter för huvudrubriken ned till löptextens storlek på fjärde nivån (3.5.2). Husets ställning till frågerubriker står i konflikttabellen.
+En rubrik ska skilja sig tydligt från löptexten. En lång rubrik delas hellre på två rader än sträcks över hela sidans bredd. Rubriker skrivs med gemener och avstavas inte. En rubrik avslutas aldrig med punkt eller kolon, utom att en punktuppställning kan ha kolon i sin rubrik. Efter en frågerubrik sätter boken frågetecken, och utropstecken i förekommande fall. Rubriker är inte understrukna. Boken ger teckengrader per nivå, från 20–24 punkter för huvudrubriken ned till löptextens storlek på fjärde nivån (3.5.2). Hur frågerubriker förhåller sig till skrivmodulens katalog står sist i filen.
 
 ### Huvudrubriken och ärendemeningen
 
-Huvudrubriken talar om vad texten handlar om och är helst kort och kärnfull. En tvåledad rubrik kan ange huvudtiteln på den övre raden och beskriva innehållet på den undre. När rubriken delas i huvudrubrik och underrubrik kan ett tankstreck stå mellan dem, och står underrubriken på egen rad flyttas tankstrecket dit, som i "Köpta relationer – om korruption i det kommunala Sverige" (3.5.3). Det stämmer med husets tankstrecksform i [sammansattningar.md](../rules/sammansattningar.md).
+Huvudrubriken talar om vad texten handlar om och är helst kort och kärnfull. En tvåledad rubrik kan ange huvudtiteln på den övre raden och beskriva innehållet på den undre. När rubriken delas i huvudrubrik och underrubrik kan ett tankstreck stå mellan dem, och står underrubriken på egen rad flyttas tankstrecket dit, som i "Köpta relationer – om korruption i det kommunala Sverige" (3.5.3). Det stämmer med tankstrecksformen i [skiljetecken.md](../rules/skiljetecken.md).
 
 I förvaltningsbeslut och andra formella brev heter huvudrubriken ärendemening. Den inleds aldrig med "angående", "beträffande" eller liknande, utan går rakt på sak: "Din begäran att få ta del av uppgifter i belastningsregistret". En lång ärendemening kan delas i två led med tankstreck (3.5.4).
 
