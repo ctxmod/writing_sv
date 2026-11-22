@@ -90,7 +90,7 @@ Kapitel 6 i publikationen. Skrivmodulens principer för källor står i `working
 Kapitel 7 i publikationen. Rubriker och sammanfattningar i längre texter behandlas utförligare i [myndigheternas_skrivregler.md](myndigheternas_skrivregler.md).
 
 - Ett nytt stycke börjar när texten tar upp något nytt. Det markeras med blankrad på webben eller indrag i tryck, aldrig med bara ett radbyte (§7.2).
-- Rubriker är korta och sammanfattande och har ingen slutpunkt; Isof tillåter fråge- och utropstecken. Rubrik och brödtext ska kunna läsas var för sig, så brödtexten lutar sig inte mot rubriken ("Det vet man egentligen inte."). Aktiva verb och en synlig aktör gör rubriken tydlig ("Unga röker mindre idag" framför "Det röks mindre idag"). Längre texter behöver mellanrubriker och en sammanfattning eller ingress (§7.3). Husets ställning till frågerubriker står i konflikttabellen.
+- Rubriker är korta och sammanfattande och har ingen slutpunkt; Isof tillåter fråge- och utropstecken. Rubrik och brödtext ska kunna läsas var för sig, så brödtexten lutar sig inte mot rubriken ("Det vet man egentligen inte."). Aktiva verb och en synlig aktör gör rubriken tydlig ("Unga röker mindre idag" framför "Det röks mindre idag"). Längre texter behöver mellanrubriker och en sammanfattning eller ingress (§7.3). Hur frågerubriker förhåller sig till skrivmodulens katalog står i avsnittet Förhållande till andra regler.
 - Punktlistor (§7.4):
   - led som fortsätter inledningens mening får inget kolon, liten bokstav och punkt bara efter sista ledet;
   - självständiga korta led får kolon efter inledningen, liten bokstav och punkt efter sista ledet;
