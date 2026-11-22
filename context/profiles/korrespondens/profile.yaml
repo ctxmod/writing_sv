@@ -1,0 +1,14 @@
+extends:
+  - github.com/ctxmod/writing_sv/context/profiles/core
+title: Svenskt skrivande — korrespondens
+description: >-
+  Svenska mejl, meddelanden, brev och svar: inledningen som klarar
+  poängtestet, ämnesraden som säger vad avsändaren vill, konkreta tider,
+  de svenska paren för det som gagnar meddelandet, hälsningar och
+  innekretsregistret, svar på ställda frågor, och det talspråksnära
+  registret för svenska säljutskick. Bygger på skrivmodulens profiler
+  correspondence och sales_outbound, som bär doktrinen.
+packages:
+  add:
+    - meddelanden
+    - saljutskick
