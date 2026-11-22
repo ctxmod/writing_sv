@@ -54,3 +54,25 @@ Samma sak formulerad som ett uppnått tillstånd blir ett falskt påstående om 
 Resultatsiffror i första person får stå när de är sanna och belagda;
 en siffra som inte är belagd stryks eller avgränsas till det belägget
 bär.
+
+## Mottagande är belägg, inte dom
+
+Principen står i `argumentation` (modulen `writing`, profilen `prose`,
+paketet `argument`), avsnittet om mottagandet. På svenska lyder den:
+
+> Popularitet eller bestånd fastställer inte i sig kvalitet. Hur mycket
+> de väger som belägg beror på om de processer som har gett upphov till
+> mottagandet ger oss skäl att knyta det till just den kvalitet som
+> bedöms.
+
+Testet: för varje faktum om popularitet, bestånd eller framgång som förs
+fram som stöd kan texten säga varför processen bakom det bär på just den
+kvalitet som bedöms? Kan den inte det visar faktumet bara vad som hänt
+verket, inte vad det är värt.
+
+> Senare uppmärksamhet och institutionaliserat erkännande visar att
+> kritikerns omdöme inte kom att avgöra verkets vidare öde.
+
+Faktumet visar att omdömet inte segrade. Det säger inget om den kvalitet
+kritikern bedömde, så antingen följer ett utvärderande skäl, eller så
+står det smalare historiska påståendet kvar.
