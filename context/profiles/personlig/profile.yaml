@@ -1,9 +1,0 @@
-extends:
-  - github.com/ctxmod/writing_sv/context/profiles/core
-title: Svenskt skrivande — personlig stil
-description: >-
-  Den personliga skrivregeln: tilltalsform, tankestreck och datum,
-  meningsbyggnad och register.
-packages:
-  add:
-    - skribentregel
