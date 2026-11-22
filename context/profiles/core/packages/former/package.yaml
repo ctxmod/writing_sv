@@ -1,3 +1,5 @@
 description: >-
-  Siffror, mängder, förkortningar samt datum- och klockslagformat.
+  Siffror, mängder, förkortningar samt datum- och klockslagformat:
+  synliga datum utskrivna och ISO-formen i maskinfält, tusental,
+  decimaler och procent.
 binds_to_depth: main...
