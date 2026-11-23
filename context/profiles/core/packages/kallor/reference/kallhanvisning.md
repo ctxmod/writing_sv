@@ -16,3 +16,11 @@ undervisningen ligger i exempelpaketet `source_example`, som bär
 modulens enda live-citat och visar citeringsnycklar, lokatorer och
 renderingsposturen i sin helhet – källhänvisningens människliga former
 här och maskinens former där.
+
+## Varför referat före citat
+
+Fördjupning till regeln [referat_och_citat.md](../rules/referat_och_citat.md).
+Citatet är ett löfte om exakthet: läsaren ska kunna lita på att
+orden är källans, ord för ord. Varje referat som gör samma jobb
+skalar därför bort citatet och med det exakthetslöftet – bara de
+formuleringar som bär sin egen tyngd motiverar att citeras.
