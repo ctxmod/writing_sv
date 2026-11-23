@@ -94,3 +94,11 @@ Ett brev som en språkmodell har hjälpt till med blir sökandens eget när varj
 
 Brevet skrivs på svenska när svenska är naturligt och rollen kräver det; annars på engelska, som väljs hellre än maskinöversatt svenska. Valet görs en gång per brev och hela brevet följer det.
 
+
+## Påståenden och kvalitetsporten
+
+Fördjupning till reglerna [claims_med_stod.md](../rules/claims_med_stod.md) och [kvalitetsporten.md](../rules/kvalitetsporten.md).
+
+Ett exempel har ett huvudjobb: problemet, ditt beslut, resultatet. Detaljer och resultat väljs efter belagd förmåga, och mekanismen beskrivs före kvalitetsbeskrivningen – *hur* är kontrollerbart, *kvalitativ* är bara ett ord. Det stabila sakunderlaget är grunden varje text väljer ur; en text väljer, men omtolkar den aldrig.
+
+Kvalitetsporten är den stående engångsporten för utåtriktad prosa. Utöver stopplistan bär den en samling principutlösare som pekar tillbaka på påståendereglerna. En ren körning av en lista rensar aldrig en omdömesregel: stopplistan fångar de mekaniska felen, men omdömet – är påståendet faktiskt, relevant och sägbart? – är granskarens. Bevisbördan ligger på den som vill ändra något, och ändamålsbarren står kvar tills något konkret tränger undan dem.

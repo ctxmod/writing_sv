@@ -1,26 +1,14 @@
 # "Affären" är inte "the business"
 
-"Affären" eller "affär" står aldrig för verksamheten. Bara
-sammansättningarna bär den betydelsen: affärsnytta, affärsvärde,
-affärsbehov, affärsstrategi, affärsdomän, affärsmässig,
-affärsförståelse. Ordet ensamt betyder en enskild uppgörelse eller en
-butik, så "jag arbetar nära affären" läses som att man arbetar nära en
-viss uppgörelse eller står i en butik.
-
-Välj det ord som meningen faktiskt handlar om: verksamhet(en) för
+"Affären" eller "affär" står aldrig för verksamheten, eftersom ordet
+ensamt betyder en enskild uppgörelse eller en butik. Bara
+sammansättningarna bär den betydelsen (affärsnytta, affärsmässig).
+Välj det ord som meningen handlar om, alltså verksamhet för
 organisationen och det den gör, affärsmässigt för perspektivet eller
-kravet, ekonomiskt värde för utfallet. Ett och samma ersättningsord
-byts inte in mekaniskt överallt; varje mening läses och avgörs för sig.
+kravet och ekonomiskt värde för utfallet. Inget ersättningsord byts in
+mekaniskt, utan varje mening avgörs för sig.
 
-Fel → rätt:
-
-> jag arbetar lika nära affären som koden → jag väger teknik mot affärsnytta · jag bryggar affär och teknik → jag rör mig mellan verksamhet och teknik · arkitektur som skalar med affären → arkitektur som skalar med affärsbehoven · affärs- och tekniska krav → affärsmässiga och tekniska krav · affärs- och tekniska sammanhang → affärsmässiga och tekniska sammanhang
-
-**Varför:** "affären" är en direkt kalk av engelskans _the business_,
-och den betydelsen finns inte i svenskan. En modersmålstalare läser
-ordet som uppgörelsen eller butiken, vilket gör en annars tät mening
-förvirrande just där den ska bära mest.
-
-**Hur du tillämpar den:** sök efter `affär` i texten och läs varje
-träff. En sammansättning får stå. Står ordet ensamt, avgör vad meningen
-menar och byt till verksamhet, affärsmässigt eller ekonomiskt värde.
+Testet är att söka efter `affär` och läsa varje träff. En
+sammansättning får stå. Står ordet ensamt, avgör vad meningen menar och
+byt ord. Exemplen och motiveringen står i
+[affaren_fordjupning.md](../reference/affaren_fordjupning.md).
