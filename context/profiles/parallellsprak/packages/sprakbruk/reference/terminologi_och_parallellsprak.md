@@ -44,7 +44,9 @@ PF, avsnittet ”Mot en fungerande parallellspråkighet och svensk terminologi i
 
 ## Var man hittar termen
 
-Fem källor täcker det mesta. Rikstermbanken (rikstermbanken.se) och uppslagsverk ger facktermer som saknas i ordböcker (SR §8.3). Isofs lista Engelska ord på svenska (isof.se/engelska-ord) ger svenska förslag på engelska ord, och svensk-engelska lexikon finns hos NE och Folkets lexikon (folkets-lexikon.csc.kth.se), engelska ordböcker via onelook.com (SR §8.3). Svenska datatermer (it-ord.computersweden.se) ger it-termer och nämns redan i mekaniken. SS-ISO 704 _Terminologiarbete_ beskriver hur termer och begrepp etableras (PF, avsnittet ”Mot en fungerande parallellspråkighet och svensk terminologi i praktiken”, s. 21–24).
+Fem källor täcker det mesta. Rikstermbanken (rikstermbanken.se) och uppslagsverk ger facktermer som saknas i ordböcker (SR §8.3). Rikstermbanken förvaltas av Isof sedan Terminologicentrum TNC lades ned vid utgången av 2018, och den rymmer termlistor från myndigheter, från TNC och från Svenska datatermgruppen, så den är också vägen till de normerade datatermerna. Isofs lista Engelska ord på svenska (isof.se/engelska-ord, uppdaterad 26 september 2024) ger svenska förslag på engelska ord, och svensk-engelska lexikon finns hos NE och Folkets lexikon (folkets-lexikon.csc.kth.se), engelska ordböcker via onelook.com (SR §8.3). Computer Swedens ordlista IT-ord (it-ord.computersweden.se) förklarar it-termer och jargong men är en redaktionell ordlista i "ständig beta", inte en normerande källa. SS-ISO 704 _Terminologiarbete_ beskriver hur termer och begrepp etableras (PF, avsnittet ”Mot en fungerande parallellspråkighet och svensk terminologi i praktiken”, s. 21–24).
+
+Nya ord på AI-området följs i Språkrådets och Språktidningens årliga nyordslista; listan för 2025 tog upp _AI-agent_ (programvara som självständigt utför uppgifter och fattar beslut med hjälp av AI) och _vibbkodning_ (programmering där AI översätter en vanlig språklig beskrivning till kod). En nyordslista dokumenterar ord i bruk och är ingen rekommendation; den visar att den svenska formen finns när en text behöver den.
 
 Förslag från maskinöversättning och chattbottar granskas kritiskt (SR §8.1), och det gäller också agentens egna översättningsutkast.
 
@@ -70,3 +72,11 @@ Regeln om den svenska termen först, punkt 1 ovan, följer mekaniken och gäller
 
 Inga regler här ställer krav som krockar med en vanlig husstil eller personlig stilpreferens. PF:s budskap om att svenskan ska vara närvarande stöder de befintliga principerna och ger dem inga nya krav.
 
+## Källor
+
+- https://www.rikstermbanken.se/ — Rikstermbanken, Isofs nationella termbank; hämtad 2026-11-23.
+- https://www.jbe-platform.com/content/journals/10.1075/term.00059.pil — artikel i _Terminology_ om Rikstermbanken: förvaltningen överfördes till Isof när TNC lades ned vid utgången av 2018; hämtad 2026-11-23.
+- https://researchdata.se/sv/catalogue/dataset/2026-140 — Glossaries from Sweden's National Term Bank (version 2026-06-10): termlistorna kommer från offentlig verksamhet, TNC och Svenska datatermgruppen; hämtad 2026-11-23.
+- https://www.isof.se/engelska-ord — Isof, Engelska ord på svenska (publicerad 23 maj 2021, uppdaterad 26 september 2024); hämtad 2026-11-23.
+- https://it-ord.computersweden.se/ — Computer Swedens IT-ord, ordlista i "ständig beta"; hämtad 2026-11-23.
+- https://www.tv4.se/artikel/tt-251229-nyordlista1-fb7bb4c4/arets-alla-nya-ord-hela-listan — nyordslistan 2025 (TT, 29 december 2025), med definitionerna av AI-agent och vibbkodning; hämtad 2026-11-23.

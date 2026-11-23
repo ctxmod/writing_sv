@@ -4,11 +4,14 @@ Etablerad svensk term företräds: *driftsättning* i stället för
 *deploy*, *kodgranskning* i stället för *code review*. Engelskan
 behålls när den saknar bra svensk motsvarighet – *RAG*, *LLM*,
 *CI/CD*, *API* – och när den är källtermen i en text som förklarar
-just den termen. Verifiera termen mot etablerade termlistor, till exempel
-[Svenska datatermer](https://it-ord.computersweden.se) och Rikstermbanken,
-i stället för att mynta en egen.
+just den termen. Verifiera termen mot etablerade termlistor i stället för
+att mynta en egen: Rikstermbanken (rikstermbanken.se, Isofs nationella
+termbank) först, Isofs lista Engelska ord på svenska för vardagliga
+lånord, och Computer Swedens ordlista
+[IT-ord](https://it-ord.computersweden.se) som ett redaktionellt stöd, inte
+en normerande källa.
 
-> deploy → driftsättning · code review → kodgranskning · maintainability → underhållbarhet · framework → ramverk · data pipeline → dataflöde · further development → vidareutveckling · software → mjukvara · air-gapped → luftgapad · EU AI Act → AI-förordningen · downtime → avbrottstid · setup → konfiguration · end-to-end-ansvar → helhetsansvar
+> deploy → driftsättning · code review → kodgranskning · maintainability → underhållbarhet · framework → ramverk · data pipeline → dataflöde · further development → vidareutveckling · software → mjukvara · air-gapped → luftgapad · EU AI Act → AI-förordningen · AI agent → AI-agent · downtime → avbrottstid · setup → konfiguration · end-to-end-ansvar → helhetsansvar
 
 En fackterm definieras vid första användningen i webbtexten: läsaren
 har hoppat in mitt i ämnet, och en term som aldrig förklaras är en
