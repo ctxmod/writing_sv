@@ -7,7 +7,10 @@ description: >-
   "affären" som inte betyder verksamheten, klarspråk, hen och SAOL 15,
   svenska exempel till
   skrivmodulens grundprinciper, och digester ur Snabba skrivregler och
-  Myndigheternas skrivregler med bibliografin som metadatakällor.
+  Myndigheternas skrivregler med bibliografin som metadatakällor;
+  mottagaranpassning på svenska (läsarens frågor först, tilltalet, en
+  synlig avsändare, det återhållsamma registret och avsändarens ansvar
+  för text från en språkmodell).
   Skrivmodulens kärna (modulen writing) bär de språkoberoende
   principerna; övriga profiler här bygger på denna kärna.
 packages:
@@ -15,3 +18,4 @@ packages:
     - regler
     - former
     - kallor
+    - mottagaren
