@@ -97,8 +97,8 @@ Brevet skrivs på svenska när svenska är naturligt och rollen kräver det; ann
 
 ## Påståenden och kvalitetsporten
 
-Fördjupning till reglerna [claims_med_stod.md](../rules/claims_med_stod.md) och [kvalitetsporten.md](../rules/kvalitetsporten.md).
+Fördjupning till regeln [claims_med_stod.md](../rules/claims_med_stod.md). Svensk ansökningstext går igenom skrivmodulens kvalitetsport (`quality_gate` i modulen `writing`, profilen `core`, paketet `process`).
 
 Ett exempel har ett huvudjobb: problemet, ditt beslut, resultatet. Detaljer och resultat väljs efter belagd förmåga, och mekanismen beskrivs före kvalitetsbeskrivningen – *hur* är kontrollerbart, *kvalitativ* är bara ett ord. Det stabila sakunderlaget är grunden varje text väljer ur; en text väljer, men omtolkar den aldrig.
 
-Kvalitetsporten är den stående engångsporten för utåtriktad prosa. Utöver stopplistan bär den en samling principutlösare som pekar tillbaka på påståendereglerna. En ren körning av en lista rensar aldrig en omdömesregel: stopplistan fångar de mekaniska felen, men omdömet – är påståendet faktiskt, relevant och sägbart? – är granskarens. Bevisbördan ligger på den som vill ändra något, och ändamålsbarren står kvar tills något konkret tränger undan dem.
+Kvalitetsporten är den stående engångsporten för utåtriktad prosa. Den kan bära en stopplista med de påståendeformer som aldrig får stå, som examensmeriter som inte är avlagda, påhittade kvantifieringar, tidsinflation och ostödda universalpåståenden. Utöver stopplistan bär den en samling principutlösare som pekar tillbaka på påståendereglerna. En ren körning av en lista rensar aldrig en omdömesregel: stopplistan fångar de mekaniska felen, men omdömet – är påståendet faktiskt, relevant och sägbart? – är granskarens. Bevisbördan ligger på den som vill ändra något, och ändamålsbarren står kvar tills något konkret tränger undan dem. Det färdiga utkastet läses om mot porten och mot borttagningstestet i `claims_in_applications`. Varje fynd åtgärdas eller erkänns innan texten släpps.

@@ -29,8 +29,8 @@ stycken före hälsningsformeln, och varje stycke har ett jobb:
 
 Brevet styrs av skrivmodulens profil `job_application` (brevets form i
 `cover_letter`, påståendedisciplinen i `claims_in_applications`) och av
-den här profilens regler: [claims_med_stod.md](../rules/claims_med_stod.md),
-[svenska_ansokningar.md](svenska_ansokningar.md) och
-[kvalitetsporten.md](../rules/kvalitetsporten.md), som brevet
-kontrolleras mot innan det släpps. Mallens struktur är skelett, inte
+den här profilens regel [claims_med_stod.md](../rules/claims_med_stod.md)
+och [svenska_ansokningar.md](svenska_ansokningar.md). Innan brevet
+släpps kontrolleras det mot skrivmodulens kvalitetsport (`quality_gate`
+i profilen `core`). Mallens struktur är skelett, inte
 rader: styckenas jobb är bindande, formuleringarna är dina.

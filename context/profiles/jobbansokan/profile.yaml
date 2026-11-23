@@ -3,8 +3,8 @@ extends:
 title: Svenskt skrivande — jobbansökningar
 description: >-
   Personligt brev, arbetslivsbeskrivningar och ansökningstext på
-  svenska: brevet bärs av motivation, påståenden har stöd, och
-  kvalitetsporten gäller före utskick. Bygger på skrivmodulens profil
+  svenska: brevet bärs av motivation, påståenden har stöd och
+  skrivmodulens kvalitetsport gäller före utskick. Bygger på skrivmodulens profil
   job_application, som bär genreprinciperna.
 packages:
   add:
