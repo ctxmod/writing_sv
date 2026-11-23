@@ -18,5 +18,9 @@ Måttenheter förkortas enligt SI och böjs aldrig.
 
 ## Böjning
 
-Initialförkortningar böjs utan punkt: `eu-medlemskapets`. Kortord som
-läses som ord (`el`, `tempen`) böjs som de ord de är.
+En förkortning som läses bokstav för bokstav böjs med kolon: `EU:s`,
+`tv:n`, `AI:n`, `API:t`. En förkortning som läses som ord böjs utan kolon:
+`Natos`, `Sacos`. I en sammansättning binds förkortningen med bindestreck
+och behåller sin stavning, och böjningen hamnar på efterledet:
+`EU-medlemskapets`. Kortord som läses som ord (`el`, `tempen`) böjs som de
+ord de är (Isof, _Snabba skrivregler_ §3.4, §4.4).
