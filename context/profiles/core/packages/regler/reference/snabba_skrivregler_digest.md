@@ -105,7 +105,7 @@ Kapitel 7 i publikationen. Rubriker och sammanfattningar i längre texter behand
 Kapitel 8 i publikationen.
 
 - Stavnings- och grammatikkontroller hittar bara vissa fel och flaggar ofta rätt form, till exempel sammansättningar som "Strindbergstavlan". Förslag från chattbottar och maskinöversättning granskas kritiskt (§8.1). Det gäller en agents egna förslag lika mycket.
-- Stavning, böjning och betydelse slås upp i SAOL och Svensk ordbok (svenska.se), där "el." betyder likvärdiga former och "hellre än" en rekommendation. Språkriktighet finns i Frågelådan (frageladan.isof.se) och i _Språkrådet rekommenderar_, facktermer i Rikstermbanken, och faktiskt språkbruk i Korp eller i tidningsarkiv (§8.3).
+- Stavning, böjning och betydelse slås upp i SAOL och Svensk ordbok (svenska.se), där "el." betyder likvärdiga former och "hellre än" en rekommendation. Publikationen kom före SAOL 15 (28 januari 2026), som nu är den gällande upplagan; se [standardsvenska.md](standardsvenska.md). Språkriktighet finns i Frågelådan (frageladan.isof.se) och i _Språkrådet rekommenderar_, facktermer i Rikstermbanken, och faktiskt språkbruk i Korp eller i tidningsarkiv (§8.3).
 - För fördjupning hänvisar Isof till _Svenska skrivregler_ (2017) och _Myndigheternas skrivregler_ (2014); varje kapitel slutar med en "Läs mer"-lista (§8.3). Digesten ur den senare står i [myndigheternas_skrivregler.md](myndigheternas_skrivregler.md).
 
 ## Förhållande till andra regler
