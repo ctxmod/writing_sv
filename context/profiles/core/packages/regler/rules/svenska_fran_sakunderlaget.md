@@ -25,3 +25,7 @@ butik, och det handlar om system för kunder.
 
 Översättning som genre hör till skrivmodulens profil `translation` och
 den här modulens profil `webb` (`oversattning_och_terminologi`).
+
+Ord-för-ord-lån och andra markörer som får svensk text att läsas som
+mall eller översättning, och de lån som Isof uttryckligen godtar, står
+i katalogen i paketet `maskinsvenska`.

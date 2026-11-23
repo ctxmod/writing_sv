@@ -41,6 +41,21 @@ det svenska:
   tillbaka. Undantagets skäl och gränser står i
   [facktermer.md](../rules/facktermer.md).
 
+## Tonen och maskinsvenskan på webben
+
+Isof beskriver webbtext som text som ofta kan vara lättare än till
+exempel ett beslut, och den tilltalar den enskilda läsaren med *du*,
+med gemen, enligt paketet `mottagaren` i kärnprofilen. Lättheten
+prövas mot det konstaterande registret ovan, så att den inte blir
+säljton. Trendinramningar, säljord och annonseringar prövas mot
+katalogen i paketet `maskinsvenska` (posterna 1, 4 och 15), och
+rubriker skrivs med gemener utom i namn (post 10).
+
+En webbsida kan också läsas genom en maskinell sammanfattning. Isof
+råder att skriva så att huvudbudskapet följer med, med det viktigaste
+först, informativa mellanrubriker och en tydlig sammanfattning, och
+rådet med dess källa står i paketet `mottagaren`.
+
 ## Källans plats
 
 Detaljerade sammanfattningar av principerna ligger i modulens lokala

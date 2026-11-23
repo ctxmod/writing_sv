@@ -84,6 +84,12 @@ Garderingsmedel stryks i stället för att behållas: staplade "skulle nog / ver
 
 Slutkontrollen stryker varje "det är precis det ni söker"-mening. Faller resonemanget samman när meningen är borta ligger felet i exemplet eller i anspråkets omfattning, och det är där rättelsen görs, enligt borttagningstestet i `claims_in_applications` (modulen `writing`, profilen `job_application`, paketet `letters`).
 
+## Maskinsvenska och det återhållsamma registret
+
+Ett personligt brev läses som sökandens egen röst, och en rekryterare som känner igen mallen läser resten av brevet med den misstanken. Brevet prövas därför mot katalogen i paketet `maskinsvenska` (modulen `writing_sv`, profilen `core`) före kvalitetsporten, särskilt posterna 3 om ord-för-ord-lån, 4 om säljord och 5 om garderingar. Det återhållsamma svenska registret, och hur omstritt underlaget för det är, står i paketet `mottagaren` i samma profil. För brevet räcker att engagemang visas med konkreta skäl, som avsnittet om motivationen ovan redan kräver.
+
+Ett brev som en språkmodell har hjälpt till med blir sökandens eget när varje mening är en som sökanden kan säga och förklara i en intervju och varje uppgift går att belägga enligt [claims_med_stod.md](../rules/claims_med_stod.md). Ramen "Hej [förnamn]" gäller när namnet är känt, och en namnplats som står ofylld är en mallmarkör (post 7). När namnet saknas följer brevet råden om okänd mottagare i profilen `korrespondens`.
+
 ## Språkval
 
 Brevet skrivs på svenska när svenska är naturligt och rollen kräver det; annars på engelska, som väljs hellre än maskinöversatt svenska. Valet görs en gång per brev och hela brevet följer det.

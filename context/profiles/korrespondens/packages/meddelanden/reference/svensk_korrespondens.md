@@ -109,6 +109,12 @@ I en varm notis eller en första kontakt via en gemensam bekant gäller innekret
 - Erfarenhet i vardagsregister avrundas nedåt, aldrig uppåt: "sedan 2018" får bli "sedan ca 2018" (illustrativt). Den uppenbara aritmetiken får mötas av en enda bisats ("eftersom jag också har pluggat parallellt").
 - Frågorna står som nakna rader, två eller tre, med mjuka habitualisformuleringar. En första notis frågar inte hur processen eller nästa steg ser ut, och företagsresearchen får en lätt rad ("Jag kikade lite på er hemsida och … låter spännande").
 
+## Mallton och okänd mottagare
+
+Ett svenskt mejl som inleds med staplade artighetsfraser och avslutas med "Tveka inte att höra av dig" läses som en mall. Prövningen står i katalogen i paketet `maskinsvenska` (modulen `writing_sv`, profilen `core`), i posterna 2, 3, 7 och 9, och Isofs råd att hälsa och tacka med en mening var står i paketet `mottagaren` i samma profil. Skiljetecknet efter hälsningen är ingen markör i sig. Isof beskriver utropstecken som det vanligaste valet, hälsning utan skiljetecken som ett alternativ när utropstecknet känns hurtigt och kommatecken som ett lån från andra språk som har blivit vanligt, och skribentens stilpreferens avgör enligt avsnittet ovan.
+
+När mottagarens namn inte är känt överförs inte engelskans _To whom it may concern_ som "Till den det berör". Isof råder att i stället ringa in vem texten ska nå, med en funktion ("Till personalchefen", "Till säljansvarig") eller en rubrik som säger vad saken gäller, så att ingen behöver läsa hela texten för att avgöra vem den angår.
+
 ## Svar på en ställd fråga
 
 Reglerna i `answer_at_asked_length` (modulen `writing`, profilen `correspondence`, paketet `application_answers`) gäller oförändrade för svar på svenska: svara på den fråga som ställdes, i den längd den ställdes i, och sluta där. Upprepa inte frågan, inled inte och sammanfatta inte. En verklig brist medges en gång, i det fält som frågar om den; samma brist medgiven igen i intilliggande fält är en ansökan som argumenterar mot sig själv. Korthet ger aldrig utrymme för överdrift: där ett kortare svar inte går att skriva sant skrivs det ärliga längre. Ett formulärsvar läses snabbt av någon som bara avgör om det ska bli ett samtal, och ett kort och konkret svar lämnar resonemanget till samtalet.
@@ -139,3 +145,7 @@ Börjar med svaret och slutar där (bättre, illustrativt):
 
 Ett fält som frågar varför sökanden är intresserad, varför hen söker eller vad som lockar med organisationen är en motivationsfråga och besvaras med motivation. Det kan vara organisationen, produkten eller uppdraget, uppskattat för något konkret, ett område sökanden vill växa i, en sorts arbete sökanden särskilt tycker om och som annonsen pekar mot, eller valet av just den sortens organisation. Att återberätta CV:t ("rollen matchar det jag redan gör", "jag har relevant erfarenhet av …") svarar på en annan fråga. Det är förbjudet som svarets centrum eller inledning och får bara förekomma som en kort stödjande bisats. Motivationen är sann och förankrad, och ett områdesnamn är inget skäl, enligt `svenska_ansokningar` (modulen `writing_sv`, profilen `jobbansokan`, paketet `ansokan`). Svaret påstår ingenting om organisationen eller rollen som sökanden inte kan veta eller kontrollera, och verktygslistor och omfångsfraser stryks.
 
+## Källor
+
+- https://frageladan.isof.se/faqs/21183 — Isofs Frågelåda: hur ett brev eller mejl inleds, skiljetecken efter hälsningsfrasen; hämtad 2026-11-23.
+- https://frageladan.isof.se/faqs/24960 — Isofs Frågelåda: engelskans _to whom it may concern_ och att ringa in mottagaren; hämtad 2026-11-23.
