@@ -1,0 +1,12 @@
+description: >-
+  Maskinsvenska: katalogen över de markörer som får svensk text att
+  läsas som mall eller översättning, var och en skriven som ett test
+  med ett smalt undantag och exempel. Posterna gäller trendinramning,
+  tyngd utan tyngd, ord-för-ord-lån (och de lån Isof godtar), säljord, garderingar,
+  den sammanfattande slutraden, mallhälsningen, versalt Du, den
+  avsändarlösa texten, engelsk versalisering och typografi, em-strecket,
+  särskrivning, kontrast och annonsering, subjektet först i varje
+  mening, kanslisvenska samt utropstecken och emojier. Bygger på
+  skrivmodulens paket machine_tells och anti_patterns, som bär de
+  språkoberoende markörerna.
+binds_to_depth: main...

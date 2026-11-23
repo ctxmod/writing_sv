@@ -10,7 +10,7 @@ description: >-
   Myndigheternas skrivregler med bibliografin som metadatakällor;
   mottagaranpassning på svenska (läsarens frågor först, tilltalet, en
   synlig avsändare, det återhållsamma registret och avsändarens ansvar
-  för text från en språkmodell).
+  för text från en språkmodell) och katalogen över maskinsvenska.
   Skrivmodulens kärna (modulen writing) bär de språkoberoende
   principerna; övriga profiler här bygger på denna kärna.
 packages:
@@ -19,3 +19,4 @@ packages:
     - former
     - kallor
     - mottagaren
+    - maskinsvenska
